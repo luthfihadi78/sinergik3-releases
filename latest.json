@@ -1,0 +1,11 @@
+{
+  "version": "0.97.19",
+  "build": 182,
+  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.97.19-arm64-release.apk",
+  "sha256": "27715b0f3460afbd3d2fbeeb384fb7a6af5329ab2ba82e5574a232502332914a",
+  "size": 29839769,
+  "notes": [
+    "chore: rilis 0.97.19+182 — menu pojok kanan atas digabung tanpa submenu"
+  ],
+  "publishedAt": "2026-10-24T01:17:55+00:00"
+}
