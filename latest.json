@@ -1,11 +1,11 @@
 {
-  "version": "0.98.4",
-  "build": 188,
-  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.98.4-arm64-release.apk",
-  "sha256": "683145cc241bbaf1700acf7b6496fc3ef1b953bcb572271a3a095af667307b40",
+  "version": "0.98.5",
+  "build": 189,
+  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.98.5-arm64-release.apk",
+  "sha256": "9a3c47b5680f14def636d70a3c91060d59fbe842c63abaa37ffc29f2212c9d27",
   "size": 29905605,
   "notes": [
-    "Administrasi kini dapat akses penuh Manajemen Data: tab Personel, Pemilik, dan PJK3 terbuka untuk Administrasi."
+    "Pembaruan SINERGI K3 0.98.5 (build 189). Rincian lengkap ada di menu Riwayat Pembaruan."
   ],
-  "publishedAt": "2026-10-27T23:53:24+00:00"
+  "publishedAt": "2026-10-28T02:49:34+00:00"
 }
