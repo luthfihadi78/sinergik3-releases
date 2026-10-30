@@ -1,11 +1,11 @@
 {
-  "version": "0.98.2",
-  "build": 204,
-  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.98.2-arm64-release.apk",
-  "sha256": "76cd7e71dd4b56c271fde2c57ace2f67efb1fe500217326cc91ce92ea14ecf1a",
+  "version": "0.99.0",
+  "build": 206,
+  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.99.0-arm64-release.apk",
+  "sha256": "07b5588f290642bd44214dee51727788fe24b1dca5c07e2bdddc23cd807d5d9c",
   "size": 29774385,
   "notes": [
-    "Spanduk sinkron HP Admin padam; tombol Lanjut lompat ke isian kosong; Direktur dapat tombol Buat Dokumen Word di dashboard."
+    "Form laporan mengikuti dokumen koreksi alat — resolusi 30 Okt: Gondola, Instalasi Listrik, dan Penyalur Petir disesuaikan; sampul Word tidak meluber lagi (I-207)."
   ],
-  "publishedAt": "2026-10-30T07:09:17+00:00"
+  "publishedAt": "2026-10-30T11:50:37+00:00"
 }
