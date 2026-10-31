@@ -1,11 +1,11 @@
 {
-  "version": "0.99.1",
-  "build": 207,
-  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.99.1-arm64-release.apk",
-  "sha256": "f784fd6d572f81a44f6561da26bcaed01b7d4ae9e8f6bd793794532ab2a5fdc9",
-  "size": 29774385,
+  "version": "0.99.3",
+  "build": 209,
+  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.99.3-arm64-release.apk",
+  "sha256": "ea1a3092f5394278540cdbce341c20bc345370bdda6951ca523898b4e573cfe1",
+  "size": 29708557,
   "notes": [
-    "Konsolidasi penuh marking koreksi klien 30 Okt ke 11 form alat: Elevator (72 butir dihapus, Diameter Tali ganda, sensor gempa, 2 saran, 1 syarat), Genset (MOTOR DIESEL, +2 Permenaker, label Sertifikat/Manual, deskripsi APD/Vibration/Sound, 2 tabel Teknis dgn dropdown Klasifikasi/Tenaga Mula/Bahan Bakar, [Baik/Buruk]+KETERANGAN, [Dilakukan/Tidak]+kelistrikan 6 fasa, pemanasan mingguan), Forklift (Model, Uji Elektrikal), Gondola (Isolasi+Pembumian dihapus, NDT, Model), Listrik & Petir (marking final 30 Okt), sisanya bersih/dipertahankan."
+    "Pembaruan SINERGI K3 0.99.3 (build 209). Rincian lengkap ada di menu Riwayat Pembaruan."
   ],
-  "publishedAt": "2026-10-30T13:38:00+00:00"
+  "publishedAt": "2026-10-31T01:39:17+00:00"
 }
