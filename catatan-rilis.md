@@ -1,5 +1,3 @@
-RILIS K3: 0.99.4+210 — layout bab VI genset mengikuti dokumen koreksi; laporan Disetujui terkunci
+RILIS K3: 0.98.4+188 Administrasi akses penuh Manajemen Data
 
-- Bab VI Data Teknis Motor Diesel: papan nama kelompok jadi judul tebal KAPITAL di atas tabelnya sendiri, persis dokumen "after correction".
-- Baris kosong di bawah kepala tabel Data Teknis dihapus; bab VI menjadi dua tabel bersih, satu per kelompok.
-- Laporan Disetujui tidak lagi bisa dihapus peran mana pun — salinannya sudah di tangan klien.
+ Administrasi kini dapat akses penuh Manajemen Data: tab Personel, Pemilik, dan PJK3 terbuka untuk Administrasi.
