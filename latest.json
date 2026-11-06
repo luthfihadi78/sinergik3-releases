@@ -1,11 +1,11 @@
 {
-  "version": "0.99.17",
-  "build": 224,
-  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.99.17-arm64-release.apk",
-  "sha256": "54b39b9a6bb10a9daab46f10199aed08b08c59907a218cc95b6af76868c7ad96",
+  "version": "0.99.18",
+  "build": 225,
+  "apkUrl": "https://raw.githubusercontent.com/luthfihadi78/sinergik3-releases/rilis/SINERGI-K3-v0.99.18-arm64-release.apk",
+  "sha256": "241808e331ed77272738579cb72eb5c5e22ba534e11815a4bb5057d893f14dff",
   "size": 29906001,
   "notes": [
-    "Pembaruan SINERGI K3 0.99.17 (build 224). Rincian lengkap ada di menu Riwayat Pembaruan."
+    "Pembaruan SINERGI K3 0.99.18 (build 225). Rincian lengkap ada di menu Riwayat Pembaruan."
   ],
-  "publishedAt": "2026-11-06T06:51:25+00:00"
+  "publishedAt": "2026-11-06T07:44:08+00:00"
 }
