@@ -1,11 +1,11 @@
-SINERGI K3 0.99.27 (build 235)
+# SINERGI K3 — Rilis 0.99.34 (build 243)
 
-Lembar Jenis Alat kini lebih ringkas: ikon alat diperkecil dan diletakkan di
-kiri, sebaris dengan nama alat dan No. Reg.-nya. Sebelumnya ikon berdiri
-sendiri di atas nama, sehingga tiap kartu memakan tinggi yang tidak perlu dan
-hanya sedikit alat terlihat dalam satu layar.
+APK terbaru di kanal ini: `SINERGI-K3-v0.99.34-arm64-release.apk`
+(30.037.297 bita, SHA-256 `f208741340e796b35ddb09049aaf627558c046e202bd7e31fb73318945df7e87`).
 
-Tidak ada perubahan pada formulir, nomor registrasi, maupun laporan yang sudah
-tersimpan. Data laporan di perangkat tidak tersentuh oleh pembaruan ini.
+## Catatan perilisan
+- **Tampilan diseragamkan**: ukuran teks, tombol, dan jarak antar-elemen kini konsisten di semua layar.
+- **Login, dashboard, dan dialog pembaruan** memakai satu gaya yang sama.
+- **Tabel Personel dan penanda kehadiran** ikut dirapikan.
 
-Perbarui lewat menu Pembaruan Aplikasi.
+Rincian lengkap ada di menu Riwayat Pembaruan aplikasi.
