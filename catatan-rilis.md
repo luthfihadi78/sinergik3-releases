@@ -1,11 +1,17 @@
-# SINERGI K3 — Rilis 0.99.34 (build 243)
+SINERGI K3 0.99.37 (build 246)
 
-APK terbaru di kanal ini: `SINERGI-K3-v0.99.34-arm64-release.apk`
-(30.037.297 bita, SHA-256 `f208741340e796b35ddb09049aaf627558c046e202bd7e31fb73318945df7e87`).
+Formulir Instalasi Listrik dan Forklift dirapikan. Instalasi Listrik kini
+memilih tegangan 380 V atau 220 V dan memisahkan kolom suhu dari arus.
+Uji Beban Statis dan Uji Beban Dinamis pada Forklift bisa disertai persentase
+beban (125% dan 110%).
 
-## Catatan perilisan
-- **Tampilan diseragamkan**: ukuran teks, tombol, dan jarak antar-elemen kini konsisten di semua layar.
-- **Login, dashboard, dan dialog pembaruan** memakai satu gaya yang sama.
-- **Tabel Personel dan penanda kehadiran** ikut dirapikan.
+Daftar Laporan dikelompokkan per perusahaan pemilik, dan sampul dokumen
+menulis No. Unit apa adanya — tanpa kata "UNIT" di depannya. Urutan baris Data
+Teknis diseragamkan di semua jenis alat: Nama Pabrik Pembuat / Merk, No. Seri /
+Type, Tahun Pemasangan, Negara Pembuat / Pemasang.
 
-Rincian lengkap ada di menu Riwayat Pembaruan aplikasi.
+Tidak ada perubahan pada nomor registrasi, template formulir yang sudah ada,
+maupun laporan yang sudah tersimpan. Data laporan di perangkat tidak tersentuh
+oleh pembaruan ini.
+
+Perbarui lewat menu Pembaruan Aplikasi.
