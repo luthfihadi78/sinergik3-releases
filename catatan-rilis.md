@@ -1,11 +1,12 @@
-# SINERGI K3 — Rilis 0.103.0 (build 255)
+SINERGI K3 0.99.39 (build 248)
 
-APK terbaru di kanal ini: `SINERGI-K3-v0.103.0-arm64-release.apk`
+Status laporan dan tombol Word kini menempel di kanan tabel Daftar Laporan
+maupun tab Setujui. Sebelumnya keduanya melayang di tengah baris, dan pada
+laporan yang belum bernomor — Draf — posisi itu membuat barisnya terbaca
+seperti tabel yang belum selesai.
 
-## Catatan perilisan
-- **Tata letak surat permohonan** mengikuti contoh yang sudah dikoreksi klien.
-- Jarak, spasi, dan baris kosong surat disamakan dengan contoh klien.
-- Surat pendek diberi jarak longgar; yang panjang dipadatkan sendiri.
-- Surat tetap tepat satu halaman.
+Tidak ada perubahan pada nomor registrasi, template formulir, maupun laporan
+yang sudah tersimpan. Data laporan di perangkat tidak tersentuh oleh
+pembaruan ini.
 
-Rincian lengkap ada di menu Riwayat Pembaruan aplikasi.
+Perbarui lewat menu Pembaruan Aplikasi.
