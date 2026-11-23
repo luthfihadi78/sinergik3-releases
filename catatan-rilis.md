@@ -1,11 +1,11 @@
-# SINERGI K3 — Rilis 0.104.2 (build 259)
+# SINERGI K3 — Rilis 0.107.2 (build 283)
 
-APK terbaru di kanal ini: `SINERGI-K3-v0.104.2-arm64-release.apk`
+APK terbaru di kanal ini: `SINERGI-K3-v0.107.2-arm64-release.apk`
 
 ## Catatan perilisan
-- **Tab SKP** di Manajemen Data jadi satu pintu kelola SKP Ahli dan perusahaan.
-- Daftar SKP menampilkan masa berlaku dan pencarian.
-- Unggah surat SKP dibaca di perangkat untuk mengusulkan isian.
-- Lembar orang dan Ubah Profil jadi baca-saja agar tautan arsip SKP tidak hilang.
+- **Pemeriksaan Instalasi Listrik di Tempat Kerja**: sepuluh butir wajib dinilai sebelum laporan dikirim.
+- Semua isian bersatuan memakai pemilih di ujung kotak angka.
+- Daya genset, tekanan bejana, kapasitas tangki timbun, dan daya terpasang ikut menyesuaikan.
+- Template Bejana Tekan, Genset, Instalasi Listrik, dan Tangki Timbun diperbarui.
 
 Rincian lengkap ada di menu Riwayat Pembaruan aplikasi.
