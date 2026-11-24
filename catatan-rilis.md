@@ -1,12 +1,11 @@
-SINERGI K3 0.99.39 (build 248)
+# SINERGI K3 — Rilis 0.108.1 (build 285)
 
-Status laporan dan tombol Word kini menempel di kanan tabel Daftar Laporan
-maupun tab Setujui. Sebelumnya keduanya melayang di tengah baris, dan pada
-laporan yang belum bernomor — Draf — posisi itu membuat barisnya terbaca
-seperti tabel yang belum selesai.
+APK terbaru di kanal ini: `SINERGI-K3-v0.108.1-arm64-release.apk`
 
-Tidak ada perubahan pada nomor registrasi, template formulir, maupun laporan
-yang sudah tersimpan. Data laporan di perangkat tidak tersentuh oleh
-pembaruan ini.
+## Catatan perilisan
+- **Perpanjangan SKP** kini menggantikan nomor lama untuk pemilik yang sama, dengan peringatan sebelum disimpan.
+- Lembar Ubah SKP tetap menolak memindahkan bidang ke baris SKP lain.
+- Pemilih berkas yang gagal memberi pesan yang bisa ditindaklanjuti.
+- Tiga ringkasan Beranda dijaga tampil untuk semua peran.
 
-Perbarui lewat menu Pembaruan Aplikasi.
+Rincian lengkap ada di menu Riwayat Pembaruan aplikasi.
